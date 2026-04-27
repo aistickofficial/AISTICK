@@ -13,7 +13,7 @@ Trasformare qualsiasi PC in un centro di calcolo intelligente dove l'utente può
 
 ## 🌐 Visita la Landing Page Ufficiale
 Per consultare le specifiche tecniche complete, confrontare i modelli o procedere all'acquisto tramite i canali ufficiali, visita:
-👉 **[CLICCA QUI PER IL SITO UFFICIALE](https://tuo-nome-utente.github.io/nome-repo/)**
+👉 **[CLICCA QUI PER IL SITO UFFICIALE](https://aistickofficial.github.io/AISTICK/)**
 
 ---
 *Built with Meta Llama technology. For personal use only.*
